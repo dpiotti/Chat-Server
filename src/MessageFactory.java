@@ -1,6 +1,6 @@
 /**
- * <b> CS 180 - Project 4 - Message Factory </b>
- * <p>
+ * 
+ *
  *
  * This is the error message factory class.
  *
