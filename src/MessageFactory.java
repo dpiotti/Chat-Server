@@ -1,6 +1,6 @@
 /**
  * 
- *
+ * @author Daniel Piotti (dpiotti@purdue.edu)
  *
  * This is the error message factory class.
  *
