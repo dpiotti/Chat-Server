@@ -1,7 +1,7 @@
-/**@authors Daniel Piotti <(dpiotti@purdue.edu)> && Tyler Jonites <(tjonites@purdue.edu)>
+/**
  *
- * @lab (817)
- * @version (11/17/15)
+ * @author Daniel Piotti (dpiotti@purdue.edu)
+ * 
  */
 
 public class User {
