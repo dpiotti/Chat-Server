@@ -1,9 +1,6 @@
 /**
- * @authors Daniel Piotti <(dpiotti@purdue.edu)> && Tyler Jonites
- *          <(tjonites@purdue.edu)>
+ * @authors Daniel Piotti (dpiotti@purdue.edu)
  *
- * @lab (817)
- * @version (11/17/15)
  */
 public class CircularBuffer {
 
