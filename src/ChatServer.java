@@ -1,19 +1,12 @@
 import java.util.*;
 
 /**
- * <b> CS 180 - Project 4 - Chat Server Skeleton </b>
- * <p>
  *
- * This is the skeleton code for the ChatServer Class. This is a private chat
- * server for you and your friends to communicate.
+ * This is a private chat server for you and your
+ * friends to communicate.
  *
- * @authors Daniel Piotti <(dpiotti@purdue.edu)> && Tyler Jonites
- *          <(tjonites@purdue.edu)>
- *
- * @lab (817)
- *
- * @version (11/17/15)
- *
+ * @author Daniel Piotti (dpiotti@purdue.edu) 
+ 
  */
 public class ChatServer {
 
